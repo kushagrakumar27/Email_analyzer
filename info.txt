@@ -1,0 +1,991 @@
+{
+  "updated_date": [
+    "2017-12-16 10:27:16", 
+    "2017-12-16T02:27:16-0800"
+  ], 
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited", 
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited", 
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited", 
+    "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)", 
+    "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)", 
+    "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)"
+  ], 
+  "name": "Domain Administrator", 
+  "dnssec": "unsigned", 
+  "city": "Mountain View", 
+  "expiration_date": [
+    "2019-01-17 06:30:33", 
+    "2019-01-16T00:00:00-0800"
+  ], 
+  "zipcode": "94040", 
+  "domain_name": [
+    "UDACITY.COM", 
+    "udacity.com"
+  ], 
+  "country": "US", 
+  "whois_server": "whois.markmonitor.com", 
+  "state": "CA", 
+  "registrar": "MarkMonitor, Inc.", 
+  "referral_url": null, 
+  "address": "2465 Latham Street, 3rd Floor,", 
+  "name_servers": [
+    "NS-1014.AWSDNS-62.NET", 
+    "NS-1109.AWSDNS-10.ORG", 
+    "NS-13.AWSDNS-01.COM", 
+    "NS-1549.AWSDNS-01.CO.UK", 
+    "ns-1014.awsdns-62.net", 
+    "ns-1109.awsdns-10.org", 
+    "ns-13.awsdns-01.com", 
+    "ns-1549.awsdns-01.co.uk"
+  ], 
+  "org": "Udacity, Inc.", 
+  "creation_date": [
+    "2012-01-17 06:30:33", 
+    "2012-01-16T22:30:33-0800"
+  ], 
+  "emails": [
+    "abusecomplaints@markmonitor.com", 
+    "domainadmin@udacity.com"
+  ]
+}
+-----------------------------------------------------------------------------------------
+{
+  "updated_date": [
+    "2014-12-15 17:16:28", 
+    "2014-11-22 00:44:51"
+  ], 
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited", 
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited", 
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited", 
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited", 
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited", 
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ], 
+  "name": "Dell Domain Administrative Contact", 
+  "dnssec": "unsigned", 
+  "city": "Round Rock", 
+  "expiration_date": "2024-11-21 05:00:00", 
+  "zipcode": "78682", 
+  "domain_name": "DELL.COM", 
+  "country": "US", 
+  "whois_server": "whois.safenames.net", 
+  "state": "Texas", 
+  "registrar": "Safenames Ltd", 
+  "referral_url": null, 
+  "address": [
+    "1 Dell Way", 
+    "RR1-33"
+  ], 
+  "name_servers": [
+    "NS1.US.DELL.COM", 
+    "NS2.US.DELL.COM", 
+    "NS3.US.DELL.COM", 
+    "NS4.US.DELL.COM", 
+    "NS5.US.DELL.COM"
+  ], 
+  "org": null, 
+  "creation_date": "1988-11-22 05:00:00", 
+  "emails": [
+    "abuse@safenames.net", 
+    "dnsadmin@dell.com", 
+    "hostmaster@safenames.net", 
+    "tec@safenames.net"
+  ]
+}
+-----------------------------------------------------------------------------------------
+{
+  "updated_date": [
+    "2018-01-26 21:35:15", 
+    "2018-01-26 21:38:40"
+  ], 
+  "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited", 
+  "name": "Luxi Group LLC", 
+  "dnssec": "unsigned", 
+  "city": "BROOKLYN", 
+  "expiration_date": "2028-01-26 05:00:00", 
+  "zipcode": "11206-3050", 
+  "domain_name": "ASHFORD.COM", 
+  "country": "US", 
+  "whois_server": "whois.networksolutions.com", 
+  "state": "NY", 
+  "registrar": "NETWORK SOLUTIONS, LLC.", 
+  "referral_url": null, 
+  "address": "545 BROADWAY 3RD FL", 
+  "name_servers": [
+    "A1-39.AKAM.NET", 
+    "A18-64.AKAM.NET", 
+    "A20-65.AKAM.NET", 
+    "A4-66.AKAM.NET", 
+    "A5-67.AKAM.NET", 
+    "A7-64.AKAM.NET"
+  ], 
+  "org": "Luxi Group LLC", 
+  "creation_date": "1999-01-26 05:00:00", 
+  "emails": [
+    "abuse@web.com", 
+    "itaccounts@alliancetime.com"
+  ]
+}
+-----------------------------------------------------------------------------------------
+{
+  "updated_date": [
+    "2017-12-16 10:27:16", 
+    "2017-12-16T02:27:16-0800"
+  ], 
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited", 
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited", 
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited", 
+    "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)", 
+    "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)", 
+    "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)"
+  ], 
+  "name": "Domain Administrator", 
+  "dnssec": "unsigned", 
+  "city": "Mountain View", 
+  "expiration_date": [
+    "2019-01-17 06:30:33", 
+    "2019-01-16T00:00:00-0800"
+  ], 
+  "zipcode": "94040", 
+  "domain_name": [
+    "UDACITY.COM", 
+    "udacity.com"
+  ], 
+  "country": "US", 
+  "whois_server": "whois.markmonitor.com", 
+  "state": "CA", 
+  "registrar": "MarkMonitor, Inc.", 
+  "referral_url": null, 
+  "address": "2465 Latham Street, 3rd Floor,", 
+  "name_servers": [
+    "NS-1014.AWSDNS-62.NET", 
+    "NS-1109.AWSDNS-10.ORG", 
+    "NS-13.AWSDNS-01.COM", 
+    "NS-1549.AWSDNS-01.CO.UK", 
+    "ns-1014.awsdns-62.net", 
+    "ns-1109.awsdns-10.org", 
+    "ns-13.awsdns-01.com", 
+    "ns-1549.awsdns-01.co.uk"
+  ], 
+  "org": "Udacity, Inc.", 
+  "creation_date": [
+    "2012-01-17 06:30:33", 
+    "2012-01-16T22:30:33-0800"
+  ], 
+  "emails": [
+    "abusecomplaints@markmonitor.com", 
+    "domainadmin@udacity.com"
+  ]
+}
+-----------------------------------------------------------------------------------------
+{
+  "updated_date": "2016-10-22 23:50:30", 
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited", 
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited", 
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited", 
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited", 
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ], 
+  "name": null, 
+  "dnssec": "signedDelegation", 
+  "city": null, 
+  "expiration_date": "2019-07-15 05:32:11", 
+  "zipcode": null, 
+  "domain_name": "PAYPAL.COM", 
+  "country": null, 
+  "whois_server": "whois.markmonitor.com", 
+  "state": null, 
+  "registrar": "MarkMonitor Inc.", 
+  "referral_url": null, 
+  "address": null, 
+  "name_servers": [
+    "NS1.P57.DYNECT.NET", 
+    "NS2.P57.DYNECT.NET", 
+    "PDNS100.ULTRADNS.COM", 
+    "PDNS100.ULTRADNS.NET"
+  ], 
+  "org": null, 
+  "creation_date": "1999-07-15 05:32:11", 
+  "emails": "abusecomplaints@markmonitor.com"
+}
+-----------------------------------------------------------------------------------------
+{
+  "updated_date": [
+    "2018-01-26 21:35:15", 
+    "2018-01-26 21:38:40"
+  ], 
+  "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited", 
+  "name": "Luxi Group LLC", 
+  "dnssec": "unsigned", 
+  "city": "BROOKLYN", 
+  "expiration_date": "2028-01-26 05:00:00", 
+  "zipcode": "11206-3050", 
+  "domain_name": "ASHFORD.COM", 
+  "country": "US", 
+  "whois_server": "whois.networksolutions.com", 
+  "state": "NY", 
+  "registrar": "NETWORK SOLUTIONS, LLC.", 
+  "referral_url": null, 
+  "address": "545 BROADWAY 3RD FL", 
+  "name_servers": [
+    "A1-39.AKAM.NET", 
+    "A18-64.AKAM.NET", 
+    "A20-65.AKAM.NET", 
+    "A4-66.AKAM.NET", 
+    "A5-67.AKAM.NET", 
+    "A7-64.AKAM.NET"
+  ], 
+  "org": "Luxi Group LLC", 
+  "creation_date": "1999-01-26 05:00:00", 
+  "emails": [
+    "abuse@web.com", 
+    "itaccounts@alliancetime.com"
+  ]
+}
+-----------------------------------------------------------------------------------------
+{
+  "updated_date": "2017-08-09 04:31:40", 
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited", 
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited", 
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited", 
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ], 
+  "name": "Registration Private", 
+  "dnssec": "unsigned", 
+  "city": null, 
+  "expiration_date": "2022-01-22 00:14:58", 
+  "zipcode": null, 
+  "domain_name": "GOFUNDME.COM", 
+  "country": null, 
+  "whois_server": "whois.godaddy.com", 
+  "state": null, 
+  "registrar": "GoDaddy.com, LLC", 
+  "referral_url": null, 
+  "address": null, 
+  "name_servers": [
+    "NS-1018.AWSDNS-63.NET", 
+    "NS-1148.AWSDNS-15.ORG", 
+    "NS-1860.AWSDNS-40.CO.UK", 
+    "NS-279.AWSDNS-34.COM"
+  ], 
+  "org": "Domains By Proxy, LLC", 
+  "creation_date": "2010-01-22 00:14:58", 
+  "emails": "abuse@godaddy.com"
+}
+-----------------------------------------------------------------------------------------
+{
+  "updated_date": "2016-06-21 22:45:02", 
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited", 
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited", 
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited", 
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ], 
+  "name": "******** ********", 
+  "dnssec": "unsigned", 
+  "city": null, 
+  "expiration_date": "2018-06-23 14:32:49", 
+  "zipcode": null, 
+  "domain_name": "SPLITWISE.COM", 
+  "country": null, 
+  "whois_server": "whois.godaddy.com", 
+  "state": null, 
+  "registrar": "GoDaddy.com, LLC", 
+  "referral_url": null, 
+  "address": null, 
+  "name_servers": [
+    "NS33.DOMAINCONTROL.COM", 
+    "NS34.DOMAINCONTROL.COM"
+  ], 
+  "org": "Splitwise Inc", 
+  "creation_date": "2009-06-23 14:32:49", 
+  "emails": "abuse@godaddy.com"
+}
+-----------------------------------------------------------------------------------------
+{
+  "updated_date": "2016-06-21 22:45:02", 
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited", 
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited", 
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited", 
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ], 
+  "name": "******** ********", 
+  "dnssec": "unsigned", 
+  "city": null, 
+  "expiration_date": "2018-06-23 14:32:49", 
+  "zipcode": null, 
+  "domain_name": "SPLITWISE.COM", 
+  "country": null, 
+  "whois_server": "whois.godaddy.com", 
+  "state": null, 
+  "registrar": "GoDaddy.com, LLC", 
+  "referral_url": null, 
+  "address": null, 
+  "name_servers": [
+    "NS33.DOMAINCONTROL.COM", 
+    "NS34.DOMAINCONTROL.COM"
+  ], 
+  "org": "Splitwise Inc", 
+  "creation_date": "2009-06-23 14:32:49", 
+  "emails": "abuse@godaddy.com"
+}
+-----------------------------------------------------------------------------------------
+{
+  "updated_date": [
+    "2017-12-16 10:27:16", 
+    "2017-12-16T02:27:16-0800"
+  ], 
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited", 
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited", 
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited", 
+    "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)", 
+    "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)", 
+    "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)"
+  ], 
+  "name": "Domain Administrator", 
+  "dnssec": "unsigned", 
+  "city": "Mountain View", 
+  "expiration_date": [
+    "2019-01-17 06:30:33", 
+    "2019-01-16T00:00:00-0800"
+  ], 
+  "zipcode": "94040", 
+  "domain_name": [
+    "UDACITY.COM", 
+    "udacity.com"
+  ], 
+  "country": "US", 
+  "whois_server": "whois.markmonitor.com", 
+  "state": "CA", 
+  "registrar": "MarkMonitor, Inc.", 
+  "referral_url": null, 
+  "address": "2465 Latham Street, 3rd Floor,", 
+  "name_servers": [
+    "NS-1014.AWSDNS-62.NET", 
+    "NS-1109.AWSDNS-10.ORG", 
+    "NS-13.AWSDNS-01.COM", 
+    "NS-1549.AWSDNS-01.CO.UK", 
+    "ns-1014.awsdns-62.net", 
+    "ns-1109.awsdns-10.org", 
+    "ns-13.awsdns-01.com", 
+    "ns-1549.awsdns-01.co.uk"
+  ], 
+  "org": "Udacity, Inc.", 
+  "creation_date": [
+    "2012-01-17 06:30:33", 
+    "2012-01-16T22:30:33-0800"
+  ], 
+  "emails": [
+    "abusecomplaints@markmonitor.com", 
+    "domainadmin@udacity.com"
+  ]
+}
+-----------------------------------------------------------------------------------------
+{
+  "updated_date": [
+    "2018-01-12 18:38:06", 
+    "2018-01-12 18:38:09"
+  ], 
+  "status": "ok https://icann.org/epp#ok", 
+  "name": [
+    "National Marrow Donor Program National Marrow Donor Program", 
+    "National Marrow Donor Program"
+  ], 
+  "dnssec": [
+    "unsigned", 
+    "Unsigned"
+  ], 
+  "city": "MINNEAPOLIS", 
+  "expiration_date": "2021-04-23 04:00:00", 
+  "zipcode": "55413-2195", 
+  "domain_name": "NMDP.ORG", 
+  "country": "US", 
+  "whois_server": "whois.networksolutions.com", 
+  "state": "MN", 
+  "registrar": "NETWORK SOLUTIONS, LLC.", 
+  "referral_url": null, 
+  "address": "3001 BROADWAY ST NE", 
+  "name_servers": [
+    "NS1.NMDP.ORG", 
+    "NS2.NMDP.ORG"
+  ], 
+  "org": "National Marrow Donor Program", 
+  "creation_date": [
+    "1993-04-22 04:00:00", 
+    "2002-09-18 04:33:42"
+  ], 
+  "emails": [
+    "abuse@web.com", 
+    "jthorsta@nmdp.org", 
+    "TS-Network-Admin@NMDP.ORG"
+  ]
+}
+-----------------------------------------------------------------------------------------
+{
+  "updated_date": [
+    "2014-12-15 17:16:28", 
+    "2014-11-22 00:44:51"
+  ], 
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited", 
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited", 
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited", 
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited", 
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited", 
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ], 
+  "name": "Dell Domain Administrative Contact", 
+  "dnssec": "unsigned", 
+  "city": "Round Rock", 
+  "expiration_date": "2024-11-21 05:00:00", 
+  "zipcode": "78682", 
+  "domain_name": "DELL.COM", 
+  "country": "US", 
+  "whois_server": "whois.safenames.net", 
+  "state": "Texas", 
+  "registrar": "Safenames Ltd", 
+  "referral_url": null, 
+  "address": [
+    "1 Dell Way", 
+    "RR1-33"
+  ], 
+  "name_servers": [
+    "NS1.US.DELL.COM", 
+    "NS2.US.DELL.COM", 
+    "NS3.US.DELL.COM", 
+    "NS4.US.DELL.COM", 
+    "NS5.US.DELL.COM"
+  ], 
+  "org": null, 
+  "creation_date": "1988-11-22 05:00:00", 
+  "emails": [
+    "abuse@safenames.net", 
+    "dnsadmin@dell.com", 
+    "hostmaster@safenames.net", 
+    "tec@safenames.net"
+  ]
+}
+-----------------------------------------------------------------------------------------
+{
+  "updated_date": "2016-02-25 04:13:34", 
+  "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited", 
+  "name": "Avi Flombaum", 
+  "dnssec": "unsigned", 
+  "city": "New York", 
+  "expiration_date": "2020-04-21 23:59:59", 
+  "zipcode": "10004", 
+  "domain_name": "learn.co", 
+  "country": "US", 
+  "whois_server": "whois.namecheap.com", 
+  "state": null, 
+  "registrar": "NAMECHEAP INC", 
+  "referral_url": null, 
+  "address": "11 Broadway, Suite 260", 
+  "name_servers": [
+    "ns2.p09.dynect.net", 
+    "ns3.p09.dynect.net", 
+    "ns1.p09.dynect.net"
+  ], 
+  "org": "Flatiron School", 
+  "creation_date": "2010-04-22 17:05:37", 
+  "emails": [
+    "abuse@namecheap.com", 
+    "avi@flatironschool.com"
+  ]
+}
+-----------------------------------------------------------------------------------------
+{
+  "updated_date": [
+    "2017-12-16 10:27:16", 
+    "2017-12-16T02:27:16-0800"
+  ], 
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited", 
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited", 
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited", 
+    "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)", 
+    "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)", 
+    "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)"
+  ], 
+  "name": "Domain Administrator", 
+  "dnssec": "unsigned", 
+  "city": "Mountain View", 
+  "expiration_date": [
+    "2019-01-17 06:30:33", 
+    "2019-01-16T00:00:00-0800"
+  ], 
+  "zipcode": "94040", 
+  "domain_name": [
+    "UDACITY.COM", 
+    "udacity.com"
+  ], 
+  "country": "US", 
+  "whois_server": "whois.markmonitor.com", 
+  "state": "CA", 
+  "registrar": "MarkMonitor, Inc.", 
+  "referral_url": null, 
+  "address": "2465 Latham Street, 3rd Floor,", 
+  "name_servers": [
+    "NS-1014.AWSDNS-62.NET", 
+    "NS-1109.AWSDNS-10.ORG", 
+    "NS-13.AWSDNS-01.COM", 
+    "NS-1549.AWSDNS-01.CO.UK", 
+    "ns-1014.awsdns-62.net", 
+    "ns-1109.awsdns-10.org", 
+    "ns-13.awsdns-01.com", 
+    "ns-1549.awsdns-01.co.uk"
+  ], 
+  "org": "Udacity, Inc.", 
+  "creation_date": [
+    "2012-01-17 06:30:33", 
+    "2012-01-16T22:30:33-0800"
+  ], 
+  "emails": [
+    "abusecomplaints@markmonitor.com", 
+    "domainadmin@udacity.com"
+  ]
+}
+-----------------------------------------------------------------------------------------
+{
+  "updated_date": "2017-12-16 10:27:16", 
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited", 
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited", 
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ], 
+  "name": null, 
+  "dnssec": "unsigned", 
+  "city": null, 
+  "expiration_date": "2019-01-17 06:30:33", 
+  "zipcode": null, 
+  "domain_name": "UDACITY.COM", 
+  "country": null, 
+  "whois_server": "whois.markmonitor.com", 
+  "state": null, 
+  "registrar": "MarkMonitor Inc.", 
+  "referral_url": null, 
+  "address": null, 
+  "name_servers": [
+    "NS-1014.AWSDNS-62.NET", 
+    "NS-1109.AWSDNS-10.ORG", 
+    "NS-13.AWSDNS-01.COM", 
+    "NS-1549.AWSDNS-01.CO.UK"
+  ], 
+  "org": null, 
+  "creation_date": "2012-01-17 06:30:33", 
+  "emails": "abusecomplaints@markmonitor.com"
+}
+-----------------------------------------------------------------------------------------
+{
+  "updated_date": "2017-12-16 10:27:16", 
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited", 
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited", 
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ], 
+  "name": null, 
+  "dnssec": "unsigned", 
+  "city": null, 
+  "expiration_date": "2019-01-17 06:30:33", 
+  "zipcode": null, 
+  "domain_name": "UDACITY.COM", 
+  "country": null, 
+  "whois_server": "whois.markmonitor.com", 
+  "state": null, 
+  "registrar": "MarkMonitor Inc.", 
+  "referral_url": null, 
+  "address": null, 
+  "name_servers": [
+    "NS-1014.AWSDNS-62.NET", 
+    "NS-1109.AWSDNS-10.ORG", 
+    "NS-13.AWSDNS-01.COM", 
+    "NS-1549.AWSDNS-01.CO.UK"
+  ], 
+  "org": null, 
+  "creation_date": "2012-01-17 06:30:33", 
+  "emails": "abusecomplaints@markmonitor.com"
+}
+-----------------------------------------------------------------------------------------
+{
+  "updated_date": [
+    "2017-07-28 07:42:10", 
+    "2017-10-16 15:06:23"
+  ], 
+  "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited", 
+  "name": "PERFECT PRIVACY, LLC", 
+  "dnssec": "unsigned", 
+  "city": "Jacksonville", 
+  "expiration_date": "2022-09-26 04:00:00", 
+  "zipcode": "32258", 
+  "domain_name": "AFTERCOLLEGE.COM", 
+  "country": "US", 
+  "whois_server": "whois.networksolutions.com", 
+  "state": "FL", 
+  "registrar": "NETWORK SOLUTIONS, LLC.", 
+  "referral_url": null, 
+  "address": "12808 Gran Bay Parkway West", 
+  "name_servers": [
+    "NS-1183.AWSDNS-19.ORG", 
+    "NS-1567.AWSDNS-03.CO.UK", 
+    "NS-463.AWSDNS-57.COM", 
+    "NS-893.AWSDNS-47.NET"
+  ], 
+  "org": null, 
+  "creation_date": "1998-09-27 04:00:00", 
+  "emails": [
+    "abuse@web.com", 
+    "bu3um7r69qx@networksolutionsprivateregistration.com", 
+    "hn9vx74c94y@networksolutionsprivateregistration.com"
+  ]
+}
+-----------------------------------------------------------------------------------------
+{
+  "updated_date": [
+    "2018-01-26 21:35:15", 
+    "2018-01-26 21:38:40"
+  ], 
+  "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited", 
+  "name": "Luxi Group LLC", 
+  "dnssec": [
+    "unsigned", 
+    "Unsigned"
+  ], 
+  "city": "BROOKLYN", 
+  "expiration_date": "2028-01-26 05:00:00", 
+  "zipcode": "11206-3050", 
+  "domain_name": "ASHFORD.COM", 
+  "country": "US", 
+  "whois_server": "whois.networksolutions.com", 
+  "state": "NY", 
+  "registrar": "NETWORK SOLUTIONS, LLC.", 
+  "referral_url": null, 
+  "address": "545 BROADWAY 3RD FL", 
+  "name_servers": [
+    "A1-39.AKAM.NET", 
+    "A18-64.AKAM.NET", 
+    "A20-65.AKAM.NET", 
+    "A4-66.AKAM.NET", 
+    "A5-67.AKAM.NET", 
+    "A7-64.AKAM.NET"
+  ], 
+  "org": "Luxi Group LLC", 
+  "creation_date": "1999-01-26 05:00:00", 
+  "emails": [
+    "abuse@web.com", 
+    "itaccounts@alliancetime.com"
+  ]
+}
+-----------------------------------------------------------------------------------------
+{
+  "updated_date": null, 
+  "status": null, 
+  "name": null, 
+  "dnssec": null, 
+  "city": null, 
+  "expiration_date": null, 
+  "zipcode": null, 
+  "domain_name": "USC.EDU", 
+  "country": null, 
+  "whois_server": null, 
+  "state": null, 
+  "registrar": null, 
+  "referral_url": null, 
+  "address": null, 
+  "name_servers": null, 
+  "org": null, 
+  "creation_date": null, 
+  "emails": [
+    "celestea@usc.edu", 
+    "hostmaster@usc.edu"
+  ]
+}
+-----------------------------------------------------------------------------------------
+{
+  "updated_date": "2017-09-17 00:20:22", 
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited", 
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited", 
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited", 
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ], 
+  "name": [
+    "USA for UNHCR", 
+    "******** ********"
+  ], 
+  "dnssec": "unsigned", 
+  "city": "Washington", 
+  "expiration_date": "2023-03-27 05:00:00", 
+  "zipcode": "20006-1529", 
+  "domain_name": [
+    "USAFORUNHCR.ORG", 
+    "usaforunhcr.org"
+  ], 
+  "country": "US", 
+  "whois_server": "whois.godaddy.com", 
+  "state": "District of Columbia", 
+  "registrar": "GoDaddy.com, LLC", 
+  "referral_url": null, 
+  "address": "1775 K ST NW STE 580", 
+  "name_servers": [
+    "NS63.DOMAINCONTROL.COM", 
+    "NS64.DOMAINCONTROL.COM"
+  ], 
+  "org": "USA for UNHCR", 
+  "creation_date": "1997-03-26 05:00:00", 
+  "emails": [
+    "abuse@godaddy.com", 
+    "razzam@usaforunhcr.org"
+  ]
+}
+-----------------------------------------------------------------------------------------
+{
+  "updated_date": [
+    "2017-12-16 10:27:16", 
+    "2017-12-16T02:27:16-0800"
+  ], 
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited", 
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited", 
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited", 
+    "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)", 
+    "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)", 
+    "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)"
+  ], 
+  "name": "Domain Administrator", 
+  "dnssec": "unsigned", 
+  "city": "Mountain View", 
+  "expiration_date": [
+    "2019-01-17 06:30:33", 
+    "2019-01-16T00:00:00-0800"
+  ], 
+  "zipcode": "94040", 
+  "domain_name": [
+    "UDACITY.COM", 
+    "udacity.com"
+  ], 
+  "country": "US", 
+  "whois_server": "whois.markmonitor.com", 
+  "state": "CA", 
+  "registrar": "MarkMonitor, Inc.", 
+  "referral_url": null, 
+  "address": "2465 Latham Street, 3rd Floor,", 
+  "name_servers": [
+    "NS-1014.AWSDNS-62.NET", 
+    "NS-1109.AWSDNS-10.ORG", 
+    "NS-13.AWSDNS-01.COM", 
+    "NS-1549.AWSDNS-01.CO.UK", 
+    "ns-1014.awsdns-62.net", 
+    "ns-1109.awsdns-10.org", 
+    "ns-13.awsdns-01.com", 
+    "ns-1549.awsdns-01.co.uk"
+  ], 
+  "org": "Udacity, Inc.", 
+  "creation_date": [
+    "2012-01-17 06:30:33", 
+    "2012-01-16T22:30:33-0800"
+  ], 
+  "emails": [
+    "abusecomplaints@markmonitor.com", 
+    "domainadmin@udacity.com"
+  ]
+}
+-----------------------------------------------------------------------------------------
+{
+  "updated_date": "2016-10-22 23:50:30", 
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited", 
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited", 
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited", 
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited", 
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ], 
+  "name": null, 
+  "dnssec": "signedDelegation", 
+  "city": null, 
+  "expiration_date": "2019-07-15 05:32:11", 
+  "zipcode": null, 
+  "domain_name": "PAYPAL.COM", 
+  "country": null, 
+  "whois_server": "whois.markmonitor.com", 
+  "state": null, 
+  "registrar": "MarkMonitor Inc.", 
+  "referral_url": null, 
+  "address": null, 
+  "name_servers": [
+    "NS1.P57.DYNECT.NET", 
+    "NS2.P57.DYNECT.NET", 
+    "PDNS100.ULTRADNS.COM", 
+    "PDNS100.ULTRADNS.NET"
+  ], 
+  "org": null, 
+  "creation_date": "1999-07-15 05:32:11", 
+  "emails": "abusecomplaints@markmonitor.com"
+}
+-----------------------------------------------------------------------------------------
+{
+  "updated_date": "2017-07-11 09:26:19", 
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited", 
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited", 
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited", 
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited", 
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited", 
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ], 
+  "name": null, 
+  "dnssec": "unsigned", 
+  "city": null, 
+  "expiration_date": "2018-08-12 04:00:00", 
+  "zipcode": null, 
+  "domain_name": "GMAIL.COM", 
+  "country": null, 
+  "whois_server": "whois.markmonitor.com", 
+  "state": null, 
+  "registrar": "MarkMonitor Inc.", 
+  "referral_url": null, 
+  "address": null, 
+  "name_servers": [
+    "NS1.GOOGLE.COM", 
+    "NS2.GOOGLE.COM", 
+    "NS3.GOOGLE.COM", 
+    "NS4.GOOGLE.COM"
+  ], 
+  "org": null, 
+  "creation_date": "1995-08-13 04:00:00", 
+  "emails": "abusecomplaints@markmonitor.com"
+}
+-----------------------------------------------------------------------------------------
+{
+  "updated_date": "2017-12-16 10:27:16", 
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited", 
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited", 
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ], 
+  "name": null, 
+  "dnssec": "unsigned", 
+  "city": null, 
+  "expiration_date": "2019-01-17 06:30:33", 
+  "zipcode": null, 
+  "domain_name": "UDACITY.COM", 
+  "country": null, 
+  "whois_server": "whois.markmonitor.com", 
+  "state": null, 
+  "registrar": "MarkMonitor Inc.", 
+  "referral_url": null, 
+  "address": null, 
+  "name_servers": [
+    "NS-1014.AWSDNS-62.NET", 
+    "NS-1109.AWSDNS-10.ORG", 
+    "NS-13.AWSDNS-01.COM", 
+    "NS-1549.AWSDNS-01.CO.UK"
+  ], 
+  "org": null, 
+  "creation_date": "2012-01-17 06:30:33", 
+  "emails": "abusecomplaints@markmonitor.com"
+}
+-----------------------------------------------------------------------------------------
+{
+  "updated_date": [
+    "2014-12-15 17:16:28", 
+    "2014-11-22 00:44:51"
+  ], 
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited", 
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited", 
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited", 
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited", 
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited", 
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ], 
+  "name": "Dell Domain Administrative Contact", 
+  "dnssec": "unsigned", 
+  "city": "Round Rock", 
+  "expiration_date": "2024-11-21 05:00:00", 
+  "zipcode": "78682", 
+  "domain_name": "DELL.COM", 
+  "country": "US", 
+  "whois_server": "whois.safenames.net", 
+  "state": "Texas", 
+  "registrar": "Safenames Ltd", 
+  "referral_url": null, 
+  "address": [
+    "1 Dell Way", 
+    "RR1-33"
+  ], 
+  "name_servers": [
+    "NS1.US.DELL.COM", 
+    "NS2.US.DELL.COM", 
+    "NS3.US.DELL.COM", 
+    "NS4.US.DELL.COM", 
+    "NS5.US.DELL.COM"
+  ], 
+  "org": null, 
+  "creation_date": "1988-11-22 05:00:00", 
+  "emails": [
+    "abuse@safenames.net", 
+    "dnsadmin@dell.com", 
+    "hostmaster@safenames.net", 
+    "tec@safenames.net"
+  ]
+}
+-----------------------------------------------------------------------------------------
+{
+  "updated_date": null, 
+  "status": null, 
+  "name": null, 
+  "dnssec": null, 
+  "city": null, 
+  "expiration_date": null, 
+  "zipcode": null, 
+  "domain_name": "STEVENS.EDU", 
+  "country": null, 
+  "whois_server": null, 
+  "state": null, 
+  "registrar": null, 
+  "referral_url": null, 
+  "address": null, 
+  "name_servers": null, 
+  "org": null, 
+  "creation_date": null, 
+  "emails": "webmaster@stevens.edu"
+}
+-----------------------------------------------------------------------------------------
+{
+  "updated_date": "2017-08-09 04:31:40", 
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited", 
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited", 
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited", 
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ], 
+  "name": "Registration Private", 
+  "dnssec": "unsigned", 
+  "city": null, 
+  "expiration_date": "2022-01-22 00:14:58", 
+  "zipcode": null, 
+  "domain_name": "GOFUNDME.COM", 
+  "country": null, 
+  "whois_server": "whois.godaddy.com", 
+  "state": null, 
+  "registrar": "GoDaddy.com, LLC", 
+  "referral_url": null, 
+  "address": null, 
+  "name_servers": [
+    "NS-1018.AWSDNS-63.NET", 
+    "NS-1148.AWSDNS-15.ORG", 
+    "NS-1860.AWSDNS-40.CO.UK", 
+    "NS-279.AWSDNS-34.COM"
+  ], 
+  "org": "Domains By Proxy, LLC", 
+  "creation_date": "2010-01-22 00:14:58", 
+  "emails": "abuse@godaddy.com"
+}
+-----------------------------------------------------------------------------------------
